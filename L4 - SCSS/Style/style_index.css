@@ -1,0 +1,196 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.section-1 {
+  width: 100vw;
+  height: 20vh;
+  background-color: aqua;
+}
+
+.section-2 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(255, 170, 0);
+}
+
+.section-3 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(42, 90, 58);
+}
+
+.section-4 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(51, 35, 4);
+}
+
+.section-5 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(3, 44, 77);
+}
+
+.section-6 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(150, 53, 53);
+}
+
+.section-7 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(193, 35, 224);
+}
+
+.section-8 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgba(39, 38, 33, 0.397);
+}
+
+.section-9 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(255, 255, 255);
+}
+
+.section-10 {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(63, 104, 109);
+}
+
+/*# sourceMappingURL=style_index.css.map */
